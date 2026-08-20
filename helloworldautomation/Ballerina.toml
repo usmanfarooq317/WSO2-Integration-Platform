@@ -1,0 +1,9 @@
+[package]
+org = "usmanfarooq"
+name = "helloworldautomation"
+version = "0.1.0"
+distribution = "2201.13.4"
+title = "HelloWorldAutomation"
+
+[build-options]
+sticky = true
